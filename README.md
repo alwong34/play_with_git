@@ -4,12 +4,12 @@ This is a repo for _testing_, **playing**, cheering and whining.
 
 Fork it, play with it and improve it!
 
-# My Favorite Cities
+# My Favorite Football Teams
 
-* Amsterdam
-    * the canals!
-* Nuremberg
-* Shanghai
+* Manchester United
+* Baiern M"unchen
+* Real Madrid
+* FC UW
 
 ## My Favorite Animals
 
